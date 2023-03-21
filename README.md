@@ -24,13 +24,13 @@ Javascript ist für dieses Projekt nicht erforderlich, da sowohl das mobile Hamb
 
 Da Probearbeit zeitlich auf 1 Arbeitstag begrenzt war, habe ich eine liste gemacht, was prioritär wäre, wenn ich mehr zeit gehabt hätte:
 
-- Cross-Browser-Tests auf verschiedenen Geräten (Basis-Cross-Browser-Tests werden durchgeführt)
+- Bilder große optimierung
 - CSS styles für forms 
 - Hintergrund Decorations hinzufügen
 - CSS styles und Inhalt im Modals
-- Bessere Klassenbenennung - Namen für Classes von Elemente wurden nach BEM orientiert - https://getbem.com/naming/ - aber es sollte noch einmal überprüft und besser optimiert werden
+- Cross-Browser-Tests auf verschiedenen Geräten (Basis-Cross-Browser-Tests werden durchgeführt)
 - Responsive Design optimieren
+- Bessere Klassenbenennung - Namen für Classes von Elemente wurden nach BEM orientiert - https://getbem.com/naming/ - aber es sollte noch einmal überprüft und besser optimiert werden
 - Noch ein Paar CSS transitions
 - Bessere Datai-Organisierung
 - Code formatirenug 
-- Bilder große optimierung
