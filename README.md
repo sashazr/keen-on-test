@@ -24,7 +24,7 @@ Javascript ist für dieses Projekt nicht erforderlich, da sowohl das mobile Hamb
 
 Da Probearbeit zeitlich auf 1 Arbeitstag begrenzt war, habe ich eine liste gemacht, was prioritär wäre, wenn ich mehr zeit gehabt hätte:
 
-- Cross-Browser-Tests auf verschiedenen Geräten
+- Cross-Browser-Tests auf verschiedenen Geräten (Basis-Cross-Browser-Tests werden durchgeführt)
 - CSS styles für forms 
 - Hintergrund decorations
 - CSS styles und Inhalt im Modals
