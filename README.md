@@ -9,7 +9,7 @@ Umsetzungsdauer war ca. 9 Stunden + 1 oder 2 Stunde für Projektanalyse, Github 
 Als Probearbeit Umsetzung von ONE-Pager-Website ist, mit Fokus auf Produktpräsentation , waren keine umfangreich Technologien erforderlich.
 Deswegen habe ich mich entschieden, es mit einfachem CSS und HTML fast alles von Stratch zu coden (also ohne CSS oder Javascript Framework oder Libaries)
 
-Javascript ist für dieses Projekt nicht erforderlich, da sowohl das mobile Hamburger-Menü als auch Popups-Fester nur mit CSS machbar sind und dadurch sparen wir ladezeiten und die Deite ist performanter. (Bitte beachten , dass ich die Formularlogik nicht zähle, da sie nicht angefordert wird)
+Javascript ist für dieses Projekt nicht erforderlich, da sowohl das mobile Hamburger-Menü als auch Popups-Fester nur mit CSS machbar sind und dadurch sparen wir ladezeiten und die Seite ist performanter. (Bitte beachten , dass ich die Formularlogik nicht zähle, da sie nicht angefordert wird)
 
 ## Hilfe-Tools, die ich verwendet habe
 
