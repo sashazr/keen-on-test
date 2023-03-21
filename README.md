@@ -26,7 +26,7 @@ Da Probearbeit zeitlich auf 1 Arbeitstag begrenzt war, habe ich eine liste gemac
 
 - Cross-Browser-Tests auf verschiedenen Geräten (Basis-Cross-Browser-Tests werden durchgeführt)
 - CSS styles für forms 
-- Hintergrund decorations
+- Hintergrund Decorations hinzufügen
 - CSS styles und Inhalt im Modals
 - Bessere Klassenbenennung - Namen für Classes von Elemente wurden nach BEM orientiert - https://getbem.com/naming/ - aber es sollte noch einmal überprüft und besser optimiert werden
 - Responsive Design optimieren
