@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-Diese repo ist eine Probearbeit für das Unternehmen Keen-On
+Diese repo ist eine Probearbeit für das Unternehmen KEEN ON
 
 Umsetzungsdauer war ca. 9 Stunden + 1 oder 2 Stunde für Projektanalyse, Github Setup und für diese Dokumentation
 
